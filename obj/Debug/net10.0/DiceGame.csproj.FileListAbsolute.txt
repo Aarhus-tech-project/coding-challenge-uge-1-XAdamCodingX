@@ -1,0 +1,15 @@
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\bin\Debug\net10.0\DiceGame.exe
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\bin\Debug\net10.0\DiceGame.deps.json
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\bin\Debug\net10.0\DiceGame.runtimeconfig.json
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\bin\Debug\net10.0\DiceGame.dll
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\bin\Debug\net10.0\DiceGame.pdb
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\obj\Debug\net10.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\obj\Debug\net10.0\DiceGame.AssemblyInfoInputs.cache
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\obj\Debug\net10.0\DiceGame.AssemblyInfo.cs
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\obj\Debug\net10.0\DiceGame.csproj.CoreCompileInputs.cache
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\obj\Debug\net10.0\DiceGame.sourcelink.json
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\obj\Debug\net10.0\DiceGame.dll
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\obj\Debug\net10.0\refint\DiceGame.dll
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\obj\Debug\net10.0\DiceGame.pdb
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\obj\Debug\net10.0\DiceGame.genruntimeconfig.cache
+C:\SRC\coding-challenge-uge-1-XAdamCodingX\obj\Debug\net10.0\ref\DiceGame.dll
